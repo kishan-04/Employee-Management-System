@@ -69,5 +69,4 @@ node_modules/
 ## 📝 License
 
 This project is licensed under the MIT License
-Would you like me to export this into a `README.md` file you can directly upload to GitHub?
 ```
